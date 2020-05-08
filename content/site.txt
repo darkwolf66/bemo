@@ -1,0 +1,29 @@
+Title: CDA Interview
+
+----
+
+Facebookpixelcode:
+
+<script>
+console.log('pixel script')
+</script>
+
+----
+
+Googleanalyticstag:
+
+<script>
+console.log('analitcs script')
+</script>
+
+----
+
+Description: Website Description
+
+----
+
+Keywords: Website, Keywords
+
+----
+
+Headerimageurl: http://cdainterview.com/resources/cda-interview-guide.jpg

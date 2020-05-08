@@ -1,0 +1,28 @@
+title: Site
+
+
+columns:
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        create: default
+        templates:
+          - home
+          - contactus
+  - width: 1/2
+      fields:
+        facebookpixelcode:
+          label: Facebook Pixel Code
+          type: textarea
+          size: small
+          buttons: false
+        googleanalyticstag:
+          label: Google Analytics Tag
+          type: textarea
+          size: small
+          buttons: false
+        headerimageurl:
+          label: Header Image
+          type: text
+          size: small
